@@ -1,0 +1,1 @@
+# SimpleMvvmToolkit.Samples.Messaging.Core
